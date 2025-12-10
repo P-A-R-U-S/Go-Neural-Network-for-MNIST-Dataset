@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/P-A-R-U-S/Go-Neural-Network-for-MNIST-Dataset">
-    <img src="Documentation/Images/Project_Image.png" alt="Go-Neural-Network-for-MNIST-Dataset" >
+    <img src="Documentation/Images/Project_Image.png" alt="Go-Neural-Network-for-MNIST-Dataset" width="400" height="300" >
   </a>
 </div>>
 
